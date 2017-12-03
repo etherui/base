@@ -1,5 +1,5 @@
 # About
-Base repository for description, roadmap, issues for ![Etherui.net](https://etherui.net)
+Base repository for description, roadmap, issues for [Etherui.net](https://etherui.net)
 
 # Roadmap
 - [ ] create API for a receiving results for static functions
@@ -22,12 +22,12 @@ Base repository for description, roadmap, issues for ![Etherui.net](https://ethe
 
 # Author
 
-![Viktorov Konstantin](https://facebook.com/kvictorov)
+[Viktorov Konstantin](https://facebook.com/kvictorov)
 
 # Donation
 
-![0x6CCF57D5aBaF7356dC1b6d583efDCdBE603535c8](https://etherui.net/address/0x6CCF57D5aBaF7356dC1b6d583efDCdBE603535c8)
+[0x6CCF57D5aBaF7356dC1b6d583efDCdBE603535c8](https://etherui.net/address/0x6CCF57D5aBaF7356dC1b6d583efDCdBE603535c8)
 
 # Submit an Issue
 
-![New Issue](https://github.com/etherui/base/issues)
+[New Issue](https://github.com/etherui/base/issues)
