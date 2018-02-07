@@ -1,12 +1,25 @@
 # About
 Base repository for description, roadmap, issues for [Etherui.net](https://etherui.net)
 
+# Features
+- The dynamic creating of user interface based on ABI as for static functions, so and as for executable functions. Just paste ABI with a contract address and you will get high quality UI for an interaction and exploring any smart contract.
+- The wallet creating  with new address or unlocking the wallet based on JSON/UTC3 file format.
+- The interaction with blockchain via unlocked/created wallet for test/main/local networks.
+- The sending of ETH amount on a smart contract, which provides payable interface.
+- The search by address, transaction hash, block number.
+- The dynamic definition a metamask extension.
+- The deploying smart contract based on Truffle JSON file with custom constructor arguments.
+- API for an external getting of data from static functions and a balance of address.
+- The events/transactions inspecation for a smart contract with UI.
+- The integration with Shapeshift for a quckly exchange any available crypto currency on ETH.
+- The tool for creating UI from truffle cli (https://www.npmjs.com/package/etherui-deploy)
+
 # Roadmap
-- [ ] create API for a receiving results for static functions
-- [ ] mark an execution method if it is payable
+- [x] create API for a receiving results for static functions
+- [x] mark an execution method if it is payable
 - [ ] add a saving of personal bookmarks and quick access to personal contacts for logged in users
 - [ ] if in a contract a field type is address, then need to add a possibility to paste from personal contact list
-- [ ] if in a contract a field type is BigNumber, then need possibility convert from/to ETH/WEI
+- [x] if in a contract a field type is BigNumber, then need possibility convert from/to ETH/WEI
 - [ ] show a calculation average block time + add block for fast convert between some block/time
 - [ ] add a validation code via uploading a zip file with contract files, contained "import" feature
 - [ ] generate android + ios versions
