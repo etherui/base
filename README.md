@@ -9,10 +9,10 @@ Base repository for description, roadmap, issues for [Etherui.net](https://ether
 - The search by address, transaction hash, block number.
 - The dynamic definition a metamask extension.
 - The deploying smart contract based on Truffle JSON file with custom constructor arguments.
-- API for an external getting of data from static functions and a balance of address.
+- API for an external getting of data from static functions and a balance of address (https://github.com/etherui/base/blob/master/API.md).
 - The events/transactions inspecation for a smart contract with UI.
 - The integration with Shapeshift for a quckly exchange any available crypto currency on ETH.
-- The tool for creating UI from truffle cli (https://www.npmjs.com/package/etherui-deploy)
+- The tool for creating UI from truffle cli (https://www.npmjs.com/package/etherui-deploy).
 
 # Roadmap
 - [x] create API for a receiving results for static functions
